@@ -10,9 +10,6 @@
 - Play Mines Game Once
 
 ## Soniclabs Arcade Incentive Testnet
-#NEW AIRDROP
-
-Sonic Labs ( Prev Fantom )
 
 - Get Faucet : https://testnet.soniclabs.com/account
 - Register : [https://airdrop.soniclabs.com/?ref=4K0I6S](https://sightai.io/dashboard?referral-code=4K0I6S)
